@@ -1,6 +1,3 @@
-Here's an example of how you can structure your `README.md` file for this assignment:
-
----
 
 # Node.js Target Calculation Excluding Specific Days
 
