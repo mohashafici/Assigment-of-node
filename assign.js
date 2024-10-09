@@ -1,7 +1,7 @@
 function calculateTotalTarget(startDate, endDate, totalAnnualTarget) {
     const start = new Date(startDate);
     const end = new Date(endDate);
-    
+    // i wnat  to add to  input the person his day off like friday or sunday saturday
     const daysExcludingFridays = [];
     const daysWorkedExcludingFridays = [];
     const monthlyTargets = [];
