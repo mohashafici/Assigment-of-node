@@ -100,4 +100,4 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-Make sure to replace the repository URL (`https://github.com/mohashafici/target-calculation.git`) with the actual URL of your GitHub repository.
+Make sure to replace the repository URL (`https://github.com/mohashafici/Assigment-of-node`) with the actual URL of your GitHub repository.
